@@ -1,0 +1,7 @@
+<resources>
+	<string name="app_name">design</string>
+	<string name="splash_info1">软件综合课程设计</string>
+	<string name="splash_version">v0.0.1</string>
+	<!-- TODO: Remove or change this placeholder text -->
+	<string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
